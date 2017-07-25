@@ -1,0 +1,2 @@
+# Syndaryl
+Github Pages
